@@ -1,4 +1,4 @@
-A project for my internship at Creotec.
+(Tokai Seat Motor Final Inspection Instructions) is a project for my internship at Creotec.
 
 Mobile application made with Unity.
 
